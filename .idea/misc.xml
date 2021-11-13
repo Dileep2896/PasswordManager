@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/custom_bd_edit.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/custom_bg_accent.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/custom_bg_primary.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/custom_bg_primaryDark.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/custom_bg_primary_dark.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/drawable/custom_bg_white.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/custom_email_icon.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/custom_input.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/custom_password_icon.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/custom_text.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/custom_web_icon.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/ic_add.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/ic_email.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/ic_email_focused.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/ic_lock.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/ic_lock_focused.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/ic_lock_main.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/drawable/ic_web.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/ic_web_focused.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/password_list_view_bg.xml" value="0.26458333333333334" />
+        <entry key="app/src/main/res/layout-v23/activity_password_adding.xml" value="0.1802536231884058" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1802536231884058" />
+        <entry key="app/src/main/res/layout/activity_password_add_page.xml" value="0.1802536231884058" />
+        <entry key="app/src/main/res/layout/activity_password_adding.xml" value="0.1802536231884058" />
+        <entry key="app/src/main/res/layout/custom_dialog_box.xml" value="0.17527173913043478" />
+        <entry key="app/src/main/res/layout/custom_list_view.xml" value="0.1802536231884058" />
+        <entry key="app/src/main/res/layout/custom_toast.xml" value="0.1802536231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
